@@ -1,0 +1,6 @@
+Mesafeler:
+1. Mesafe: 5.0000 (Noktalar: (1.0, 2.0) -> (4.0, 6.0))
+2. Mesafe: 13.0000 (Noktalar: (1.0, 2.0) -> (6.0, 14.0))
+3. Mesafe: 8.2462 (Noktalar: (4.0, 6.0) -> (6.0, 14.0))
+
+Minimum Mesafe: 5.0000 (Noktalar: (1.0, 2.0) -> (4.0, 6.0))
